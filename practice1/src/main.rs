@@ -1,16 +1,14 @@
-use std::collections::btree_map::Keys;
-
 fn main() {
-    println!("Hello, world!");
-    let x; i32 =5 ;
-    let y: u32 = 1000 ;
-    let z: f32 = 1000.001;
+   let is_male: bool = true;
+   let is_above_18: bool = true;
 
-    let mut k: i32 = 10;
+   if is_male {
+    println!("You are a male");
+   } else {
+    println!("You are not a male");
+   }
 
-    for i; i32 in 0..1000 {
-        k= k+ 100;
-    }
-
-    print!("x = {} ", k )
+   if is_male && is_above_18 {
+    println!("You are a legal male");
+   }
 }
