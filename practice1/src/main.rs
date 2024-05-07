@@ -1,6 +1,5 @@
 fn main() {
-    
-   for i: i32 in 0..10 {
-        print!("{}",i);
-   }
+   for k:: i32 in 0..10 {
+        println("{} ",k);
+   } 
 }
