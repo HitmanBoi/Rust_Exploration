@@ -12,6 +12,8 @@ fn main() {
 
     let c : i32 = 5;
 
-    
+    // unsigned integer
+
+    let d : u32 = 10;
 
 }
