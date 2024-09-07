@@ -8,6 +8,10 @@ fn main() {
 
     println!("a is now {}",a);
 
+    // a signed integer 
+
+    let c : i32 = 5;
+
     
 
 }
