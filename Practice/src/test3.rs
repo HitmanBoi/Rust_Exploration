@@ -16,4 +16,10 @@ fn main() {
 
     let d : u32 = 10;
 
+    //operator 
+
+    let d = c + d;
+
+    
+
 }
