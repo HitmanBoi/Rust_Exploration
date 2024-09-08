@@ -23,6 +23,10 @@ fn main() {
 
     let _ad = mn + mx;
 
+    //try
+
+    println!("{}",_ad)
+
 
     
 
