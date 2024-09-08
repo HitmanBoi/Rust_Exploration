@@ -17,6 +17,8 @@ fn main() {
     // unsigned integer
 
     let _d : u32 = 10;
+    let _arr = [1,2];
+    
 
 
     //operator 
