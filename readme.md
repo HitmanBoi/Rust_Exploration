@@ -8,6 +8,7 @@ Native Concepts
 
 
 ->Data Types
+->Opertaions
 ->Looping
 ->File Handeling
 ->DSA
