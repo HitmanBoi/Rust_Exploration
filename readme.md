@@ -11,4 +11,5 @@ Native Concepts
 ->Opertaions
 ->Looping
 ->File Handeling
+->Functions
 ->DSA
