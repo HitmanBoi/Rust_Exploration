@@ -8,11 +8,11 @@ Native Concepts
 
 
 ==>Sharpening
-  ->Data Types
-  ->Opertaions
-  ->Looping
-  ->File Handeling
-  ->Functions
-  ->Native Concepts
-  ->DSA
-  ->Graphics
+             ->Data Types
+             ->Opertaions
+             ->Looping
+             ->File Handeling
+             ->Functions
+             ->Native Concepts
+             ->DSA
+             ->Graphics
