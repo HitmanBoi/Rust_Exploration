@@ -7,6 +7,8 @@ Basic Operations
 Native Concepts
 
 
+==>Sharpening
+
 ->Data Types
 ->Opertaions
 ->Looping
