@@ -7,7 +7,7 @@ Basic Operations
 Native Concepts
 
 
-==>Sharpening
+==>Developing
              ->Data Types
              ->Opertaions
              ->Looping
@@ -16,3 +16,5 @@ Native Concepts
              ->Native Concepts
              ->DSA
              ->Graphics
+
+==>Sharpening(Code Crafters)
