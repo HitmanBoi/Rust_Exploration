@@ -20,3 +20,4 @@ Native Concepts
 ==>Sharpening(Code Crafters)
               ->Shell(Begginer)
               ->Git(Intermediate)
+              ->Redis(Expert)
