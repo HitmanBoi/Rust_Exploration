@@ -9,7 +9,7 @@ Native Concepts
 
 ==>Developing (Exercism) <br>
              ->Data Types <br>
-             ->Opertaions
+             ->Opertaions <br>
              ->Looping
              ->File Handeling
              ->Functions
