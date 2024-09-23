@@ -7,8 +7,8 @@ Basic Operations
 Native Concepts
 
 
-==>Developing (Exercism)
-             ->Data Types
+==>Developing (Exercism) <br>
+             ->Data Types <br>
              ->Opertaions
              ->Looping
              ->File Handeling
