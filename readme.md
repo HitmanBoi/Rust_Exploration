@@ -23,4 +23,4 @@ Native Concepts
               ->Redis(Expert)
 
 ==>Projects(CodeCrafters Github Repo)
-              ->
+              ->https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp
