@@ -18,6 +18,7 @@ Native Concepts
              ->Graphics
              <br>
  Exercism - 1.Hello World <br> 
+            2.Reverse String <br>
 ==>Sharpening(Code Crafters)
               ->Shell(Begginer)
               ->Git(Intermediate)
