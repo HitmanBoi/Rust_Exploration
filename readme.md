@@ -12,7 +12,7 @@ Native Concepts
              ->Opertaions <br>
              ->Looping <br>
              ->File Handeling <br>
-             ->Functions
+             ->Functions <br>
              ->Native Concepts
              ->DSA
              ->Graphics
