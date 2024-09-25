@@ -11,12 +11,13 @@ Native Concepts
              ->Data Types <br>
              ->Opertaions <br>
              ->Looping <br>
-             ->File Handeling
+             ->File Handeling <br>
              ->Functions
              ->Native Concepts
              ->DSA
              ->Graphics
-
+             <br>
+ Exercism - 1.Hello World <br> 
 ==>Sharpening(Code Crafters)
               ->Shell(Begginer)
               ->Git(Intermediate)
