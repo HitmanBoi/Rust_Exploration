@@ -15,7 +15,7 @@ Native Concepts
              ->Functions <br>
              ->Native Concepts<br>
              ->DSA<br>
-             ->Graphics
+             ->Graphics<br>
              <br>
  Exercism - 1.Hello World <br> 
             2.Reverse String <br>
