@@ -21,7 +21,7 @@ Native Concepts
  Exercism - 1.Hello World <br> 
             2.Reverse String <br>
             <hr>
-==>Sharpening(Code Crafters)
+==>Sharpening(Code Crafters)<br>
               ->Shell(Begginer)
               ->Git(Intermediate)
               ->Redis(Expert)
