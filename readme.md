@@ -22,7 +22,7 @@ Native Concepts
             2.Reverse String <br>
             <hr>
 ==>Sharpening(Code Crafters)<br>
-              ->Shell(Begginer)
+              ->Shell(Begginer)<br>
               ->Git(Intermediate)
               ->Redis(Expert)
 
