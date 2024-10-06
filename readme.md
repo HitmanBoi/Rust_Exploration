@@ -20,6 +20,7 @@ Native Concepts
              <hr>
  Exercism - 1.Hello World <br> 
             2.Reverse String <br>
+            <hr>
 ==>Sharpening(Code Crafters)
               ->Shell(Begginer)
               ->Git(Intermediate)
