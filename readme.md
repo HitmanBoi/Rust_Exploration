@@ -23,7 +23,7 @@ Native Concepts
             <hr>
 ==>Sharpening(Code Crafters)<br>
               ->Shell(Begginer)<br>
-              ->Git(Intermediate)
+              ->Git(Intermediate)<br>
               ->Redis(Expert)
 
 ==>Projects(CodeCrafters Github Repo)
