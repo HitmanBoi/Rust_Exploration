@@ -16,6 +16,7 @@ Native Concepts <br>
              ->Functions <br>
              ->Native Concepts<br>
              ->Memory -->Stack and Heap <br>
+                      -->Other Concepts <br>
              ->DSA<br>
              ->Graphics<br>
              <br>
