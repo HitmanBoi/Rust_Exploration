@@ -15,7 +15,7 @@ Native Concepts <br>
              ->File Handeling <br>
              ->Functions <br>
              ->Native Concepts<br>
-             ->Memory -->Stack and Heap
+             ->Memory -->Stack and Heap <br>
              ->DSA<br>
              ->Graphics<br>
              <br>
