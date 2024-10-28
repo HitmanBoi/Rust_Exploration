@@ -1,4 +1,4 @@
 fn main() {
     println!("Hello, world!");
-    Let x = 4; //implicit_decesion
+    Let x: u32 = 4; //explicit_decesion
 }
