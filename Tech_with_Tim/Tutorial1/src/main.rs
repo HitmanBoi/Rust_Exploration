@@ -1,4 +1,4 @@
 fn main() {
-    println!("Hello, world!");
-    Let x: u32 = 4; //explicit_decesion
+    let x = 4;
+    println!("x is: {}", x);
 }
