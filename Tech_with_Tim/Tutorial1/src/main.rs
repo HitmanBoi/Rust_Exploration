@@ -1,11 +1,12 @@
 fn main() {
     let x = 5;
     println!("x is: {}", x);
+    
     {
         let x = 2;
         println!("x is: {}", x);
     }
 
-    let x = 4;
+    let x = x+1;
     println!("x is: {}", x);
 }
