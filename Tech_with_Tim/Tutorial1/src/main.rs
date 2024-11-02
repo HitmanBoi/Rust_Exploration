@@ -1,12 +1,12 @@
 fn main() {
-    let x = 5;
+    let mut x = 5;
     println!("x is: {}", x);
 
     {
-        let x = "Hello";
+        x = "Hello";
         println!("x is: {}", x);
     }
 
-    let x = x+1;
+    x = x+1;
     println!("x is: {}", x);
 }
