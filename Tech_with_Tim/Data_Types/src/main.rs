@@ -1,3 +1,6 @@
 fn main() {
-    println!("Hello, world!");
+    //explicit_decesion
+    let x = 2;
+
+    
 }
