@@ -1,6 +1,6 @@
 fn main() {
     //explicit_decesion
-    let x = 2;
+    let x:i8 = 2;
 
     
 }
