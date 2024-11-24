@@ -4,4 +4,8 @@ fn main() {
 
     //Another Way
     print!("Hello World");
+
+    //Variables
+
+    let a = "Hitman";
 }
