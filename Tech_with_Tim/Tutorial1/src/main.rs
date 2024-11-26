@@ -9,8 +9,10 @@ fn main() {
     let a = "Hitman";
 
     //Printing a variable using default formatter
-    println!("{}",a);
+    print!("{}",a);
 
     //Explicit Type Defination of a variable
     let num : i32 = 24;
+    print!("{}",num);
+
 }
