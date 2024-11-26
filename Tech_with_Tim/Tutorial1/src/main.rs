@@ -10,4 +10,7 @@ fn main() {
 
     //Printing a variable using default formatter
     println!("{}",a);
+
+    //Explicit Type Defination of a variable
+    let num : i32 = 24;
 }
