@@ -13,6 +13,10 @@ fn main() {
 
     //Explicit Type Defination of a variable
     let num : i32 = 24;
-    print!("{}",num);
+    println!("{}",num);
+
+    //implicit/Default Type Defination
+    let num2 = -37;
+    print!("{}",num2);
 
 }
