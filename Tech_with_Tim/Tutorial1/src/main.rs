@@ -25,4 +25,11 @@ fn main() {
     num3 = num3+2;
     println!("Num 3 is :{}",num3);
 
+    //Redefining 
+    println!("Num 2 is :{}",num2);
+    let num2 = 37;
+    println!("Redifined Num 2 is :{}",num2);
+
+
+
 }
