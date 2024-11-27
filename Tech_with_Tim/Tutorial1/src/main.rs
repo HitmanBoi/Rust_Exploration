@@ -30,6 +30,11 @@ fn main() {
     let num2 = 37;
     println!("Redifined Num 2 is :{}",num2);
 
+    //Constants
+    const SECONDS_IN_MINUTE :i8 = 60 ;
+    println!("1 minute = {}",SECONDS_IN_MINUTE);
+
+
 
 
 }
