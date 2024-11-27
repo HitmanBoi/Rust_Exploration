@@ -19,4 +19,10 @@ fn main() {
     let num2 = -37;
     print!("{}",num2);
 
+    //Mutable Variables
+    let mut num3 = 1;
+    println!("Num 3 is :{}",num3);
+    num3 = num3+2;
+    println!("Num 3 is :{}",num3);
+
 }
