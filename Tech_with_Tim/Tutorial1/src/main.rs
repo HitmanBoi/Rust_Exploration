@@ -34,6 +34,8 @@ fn main() {
     const SECONDS_IN_MINUTE :i8 = 60 ;
     println!("1 minute = {}",SECONDS_IN_MINUTE);
 
+    //Mutating or Redifining the constants will throw an error 
+
 
 
 
