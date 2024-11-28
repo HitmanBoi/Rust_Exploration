@@ -40,8 +40,9 @@ fn main() {
     println!("Num 3 is :{}",num3);
     {
         //Other Scope
+        let num3 = num3-2;
+        println!("Num 3 is :{}",num3);
     }
-
 
 
 
