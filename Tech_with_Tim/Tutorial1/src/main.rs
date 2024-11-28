@@ -36,6 +36,11 @@ fn main() {
 
     //Mutating or Redifining the constants will throw an error 
 
+    //Name Shadowing 
+    println!("Num 3 is :{}",num3);
+    
+
+
 
 
 
