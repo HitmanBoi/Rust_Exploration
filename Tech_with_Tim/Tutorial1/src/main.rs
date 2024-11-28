@@ -38,7 +38,10 @@ fn main() {
 
     //Name Shadowing 
     println!("Num 3 is :{}",num3);
-    
+    {
+        //Other Scope
+    }
+
 
 
 
