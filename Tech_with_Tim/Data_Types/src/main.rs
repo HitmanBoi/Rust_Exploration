@@ -23,6 +23,7 @@ fn main() {
     println!("The i128 type of signed integers ranges from {} to {}.",i128::MIN,num5);
 
     //Trying Something
+    //println!("{}",i28::MAX);
 
 
 
