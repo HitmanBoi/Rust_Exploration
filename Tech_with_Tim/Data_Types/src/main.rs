@@ -16,7 +16,11 @@ fn main() {
     num3 = i32::MAX;
     println!(" to {}.",num3);
 
-    //let num4:i64 =
+    let _num4:i64 = 24 ; //-9223372036854775808 to 9223372036854775807
+    println!("The i64 type of signed integers ranges from {} to {}.",i64::MIN,i64::MAX);
+
+    
+
 
 
 
