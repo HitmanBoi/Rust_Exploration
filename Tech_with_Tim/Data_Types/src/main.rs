@@ -19,7 +19,8 @@ fn main() {
     let _num4:i64 = 24 ; //-9223372036854775808 to 9223372036854775807
     println!("The i64 type of signed integers ranges from {} to {}.",i64::MIN,i64::MAX);
 
-    
+    let num5:i128 = 170141183460469231731687303715884105727 ; //-170141183460469231731687303715884105728 to 170141183460469231731687303715884105727
+    println!("The i128 type of signed integers ranges from {} to {}.",i128::MIN,num5);
 
 
 
