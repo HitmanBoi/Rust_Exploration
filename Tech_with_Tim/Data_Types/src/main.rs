@@ -26,8 +26,10 @@ fn main() {
     //println!("{}",i28::MAX);
 
     //Unsigned Integers (u8 u16 u32 u64 u128)
-    let num6 : u8 = u8::MIN;
-    println!("{}",num6);
+    let num6 : u8 = u8::MAX;
+    println!("The u8 type of unsigned integers ranges from 0 to {}",num6);
+
+
 
 
 
