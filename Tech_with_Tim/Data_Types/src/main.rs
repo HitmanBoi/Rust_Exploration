@@ -26,11 +26,18 @@ fn main() {
     //println!("{}",i28::MAX);
 
     //Unsigned Integers (u8 u16 u32 u64 u128)
-    let num6 : u8 = u8::MAX;
-    println!("The u8 type of unsigned integers ranges from 0 to {}",num6);
+    let num6 : u8 = u8::MAX; // 0 to 255
+    println!("The u8 type of unsigned integers ranges from 0 to {}.",num6);
 
-    let num7 : u16 = u16::MAX;
-    println!("The max value an unsigned integer u16 can store is {}",num7);
+    let num7 : u16 = u16::MAX; // 0 to 65535
+    println!("The max value an unsigned integer u16 can store is {}.",num7);
+
+    let num8 : u32 = 429_496_729_5; //0 to 4294967295
+    println!("Max value of u32 is {} , yep {}.",u32::MAX,num8);
+
+    //let num9 : u64
+
+
 
 
 
