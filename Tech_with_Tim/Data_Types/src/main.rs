@@ -25,6 +25,13 @@ fn main() {
     //Trying Something
     //println!("{}",i28::MAX);
 
+    //Unsigned Integers (u8 u16 u32 u64 u128)
+    let num6 : u8 = u8::MIN;
+    println!("{}",num6);
+
+
+
+
 
 
 
