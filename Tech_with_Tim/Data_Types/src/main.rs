@@ -29,6 +29,9 @@ fn main() {
     let num6 : u8 = u8::MAX;
     println!("The u8 type of unsigned integers ranges from 0 to {}",num6);
 
+    let num7 : u16 = u16::MAX;
+    println!("The max value an unsigned integer u16 can store is {}",num7);
+
 
 
 
