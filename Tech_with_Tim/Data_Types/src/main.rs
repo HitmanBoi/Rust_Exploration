@@ -35,7 +35,14 @@ fn main() {
     let num8 : u32 = 429_496_729_5; //0 to 4294967295
     println!("Max value of u32 is {} , yep {}.",u32::MAX,num8);
 
-    //let num9 : u64
+    let mut num9 : u64 = u64::MIN; //
+    print!("The u64 ranges from {}",num9);
+    num9 = u64::MAX;
+    println!(" to {}",num9);
+
+    
+    
+
 
 
 
