@@ -47,7 +47,8 @@ fn main() {
     //Floating point numbers (f32 f64)
     let flnum1 : f32 = 50000.526175865787887788686785778676568;
     println!("50000.526175865787887788686785778676568 in f32 will be represented as {}",flnum1);
-    
+    println!("f32 is also known as single precesion");
+
 
 
 
