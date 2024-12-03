@@ -40,8 +40,11 @@ fn main() {
     num9 = u64::MAX;
     println!(" to {}",num9);
 
+    let _num10 : u128 = 1 ;
+    println!("The number of positive integers an u128 data type can contain is {} and a 0",u128::MAX);
+
     
-    
+
 
 
 
