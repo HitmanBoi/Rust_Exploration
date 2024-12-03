@@ -43,6 +43,14 @@ fn main() {
     let _num10 : u128 = 1 ;
     println!("The number of positive integers an u128 data type can contain is {} and a 0",u128::MAX);
 
+
+    //Floating point numbers (f32 f64)
+    let flnum1 : f32 = 50000.526175865787887788686785778676568;
+    println!("50000.526175865787887788686785778676568 in f32 will be represented as {}",flnum1);
+    
+
+
+
     
 
 
