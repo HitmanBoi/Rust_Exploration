@@ -51,6 +51,11 @@ fn main() {
 
     let flnum2 : f64 = 50000.526175865787887788686785778676568;
     println!("50000.526175865787887788686785778676568 in f64 will be represented as {}",flnum2);
+    println!("f64 is also known as double precesion");
+
+
+
+
 
 
 
