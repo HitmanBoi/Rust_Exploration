@@ -53,6 +53,11 @@ fn main() {
     println!("50000.526175865787887788686785778676568 in f64 will be represented as {}",flnum2);
     println!("f64 is also known as double precesion it is default float type by implicit decesion");
 
+    //Booleans
+    let bul1 : bool = false;
+    let bul2 : bool = true;
+    println!("0 is represented as {} and 1 is represented as {} in boolean values",bul1,bul2);
+
 
 
 
