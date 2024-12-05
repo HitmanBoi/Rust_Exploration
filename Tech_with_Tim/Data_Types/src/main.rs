@@ -63,7 +63,11 @@ fn main() {
     println!("{}",str1);
 
     let str2 = String::from("Hitman");
-    println!("{}",str2);
+    println!("{} <- This is stored in heap on RAM",str2);
+
+    
+
+
 
     
 
