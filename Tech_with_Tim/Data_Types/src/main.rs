@@ -59,13 +59,17 @@ fn main() {
     println!("0 is represented as {} and 1 is represented as {} in boolean values",bul1,bul2);
 
     //Strings
-    let mut str1 : &str = "Hitman";
+    let str1 : &str = "Hitman";
     println!("{}",str1);
 
     let str2 = String::from("Hitman");
     println!("{} <- This is stored in heap on RAM",str2);
 
-    
+    let char1 : char = 'a'; //single quotes
+    let char2 : char = ';';
+    println!("{} is a char so is {}.",char1,char2);
+
+
 
 
 
