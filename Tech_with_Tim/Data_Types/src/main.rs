@@ -58,6 +58,11 @@ fn main() {
     let bul2 : bool = true;
     println!("0 is represented as {} and 1 is represented as {} in boolean values",bul1,bul2);
 
+    //Strings
+    let mut str1 : &str = "Hitman";
+    println!("{}",str1);
+    
+
 
 
 
