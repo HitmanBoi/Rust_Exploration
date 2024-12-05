@@ -61,6 +61,10 @@ fn main() {
     //Strings
     let mut str1 : &str = "Hitman";
     println!("{}",str1);
+
+    let str2 = String::from("Hitman");
+    println!("{}",str2);
+
     
 
 
