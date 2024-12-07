@@ -79,7 +79,11 @@ fn main() {
     println!("{}",tup1.0);
     //Tuple can be mutable in rust
     let mut tup2 = ('b',7,false);
-    
+    println!("Before updating : {}",tup2.2);
+    tup2.2 = true;
+    println!("After updating : {}",tup2.2);
+
+
 
 
 
