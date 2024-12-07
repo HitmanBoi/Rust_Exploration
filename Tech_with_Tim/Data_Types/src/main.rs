@@ -1,5 +1,7 @@
 fn main() {
-    //Primitibve Data Types
+    //Primitibve Data Types (Scalar and Compound)
+
+    //Scalar Data Types
 
     //Numbers 
 
@@ -68,6 +70,13 @@ fn main() {
     let char1 : char = 'a'; //single quotes
     let char2 : char = ';';
     println!("{} is a char so is {}.",char1,char2);
+
+
+    //Compound Data Types
+
+    //Tuple
+    let tup1 = ('a',5,true) ;
+
 
 
 
