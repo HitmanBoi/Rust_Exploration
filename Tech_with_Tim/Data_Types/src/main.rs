@@ -77,6 +77,9 @@ fn main() {
     //Tuple
     let tup1 = ('a',5,true) ;
     println!("{}",tup1.0);
+    //Tuple can be mutable in rust
+    let mut tup2 = ('b',7,false);
+    
 
 
 
