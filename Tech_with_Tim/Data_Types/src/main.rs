@@ -76,6 +76,7 @@ fn main() {
 
     //Tuple
     let tup1 = ('a',5,true) ;
+    println!("{}",tup1.0);
 
 
 
