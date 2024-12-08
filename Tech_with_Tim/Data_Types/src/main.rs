@@ -86,7 +86,12 @@ fn main() {
     //Array
     let arr1 = [1,2,3,4,5];
     println!("{}",arr1[2]); //array indexing
-    
+    //Updating items in array
+    let mut arr2 = [1,2,4,3,5];
+    let buffer1 = arr2[2];
+    arr2[2] = arr2[3];
+    println!("{}",arr2[2]);
+
 
 
 
