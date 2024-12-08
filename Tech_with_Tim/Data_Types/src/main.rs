@@ -91,6 +91,8 @@ fn main() {
     let buffer1 = arr2[2];
     arr2[2] = arr2[3];
     println!("{}",arr2[2]);
+    arr2[3] = buffer1;
+    println!("{}",arr2[3]);
 
 
 
