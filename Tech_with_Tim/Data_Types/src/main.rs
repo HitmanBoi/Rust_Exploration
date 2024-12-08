@@ -76,7 +76,7 @@ fn main() {
 
     //Tuple
     let tup1 = ('a',5,true) ;
-    println!("{}",tup1.0);
+    println!("{}",tup1.0); //tuple indexing
     //Tuple can be mutable in rust
     let mut tup2 = ('b',7,false);
     println!("Before updating : {}",tup2.2);
@@ -85,7 +85,9 @@ fn main() {
 
     //Array
     let arr1 = [1,2,3,4,5];
+    println!("{}",arr1[2]); //array indexing
     
+
 
 
 
