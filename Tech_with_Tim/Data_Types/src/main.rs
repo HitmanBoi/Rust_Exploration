@@ -83,6 +83,10 @@ fn main() {
     tup2.2 = true;
     println!("After updating : {}",tup2.2);
 
+    //Array
+    let arr1 = [1,2,3,4,5];
+    
+
 
 
 
