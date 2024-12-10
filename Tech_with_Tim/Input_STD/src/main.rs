@@ -4,4 +4,5 @@ fn main() {
     io::stdin().read_line(&mut input).expect("Err");
     println!("Hi {}!",input.trim());
 
+
 }
