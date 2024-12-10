@@ -4,4 +4,8 @@ fn main() {
 
     let add1 = x + y ;
     println!("{} + {} = {}",x,y,add1);
+    
+    let sub1 = x - y ;
+    println!("{} - {} = {}",x,y,sub1);
+    
 }
