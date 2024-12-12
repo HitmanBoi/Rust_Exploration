@@ -7,5 +7,9 @@ fn main() {
     
     let sub1 = x - y ;
     println!("{} - {} = {}",x,y,sub1);
+
+    let mul1 = x * y ;
+    println!("{} x {} = {}",x,y,mul1);
+    
     
 }
