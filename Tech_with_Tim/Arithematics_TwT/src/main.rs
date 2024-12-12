@@ -10,6 +10,10 @@ fn main() {
 
     let mul1 = x * y ;
     println!("{} x {} = {}",x,y,mul1);
+
+    let div_que = x / y ;
+    println!("{} / {} = {}",x,y,div_que);
+    
     
     
 }
