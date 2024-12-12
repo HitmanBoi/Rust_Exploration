@@ -13,6 +13,10 @@ fn main() {
 
     let div_que = x / y ;
     println!("{} / {} = {}",x,y,div_que);
+
+    let div_rem = x % y ;
+    println!("{} % {} = {}",x,y,div_rem);
+    
     
     
     
