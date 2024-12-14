@@ -8,4 +8,7 @@ fn main() {
     //Type casting 
     //numero uno 
     let x = 255.0f32 ;
+    //overflow error
+    let of = 255i8 ;
+    
 }
