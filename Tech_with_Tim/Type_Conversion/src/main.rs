@@ -9,6 +9,11 @@ fn main() {
     //numero uno 
     let x = 255.0f32 ;
     //overflow error
-    let of = 255i8 ;
-    
+    //let of = 255i8 ;
+
+    //method 1 readability
+    let x = 127_i8 ;
+
+
+
 }
