@@ -21,7 +21,14 @@ fn main() {
     //method 2
     //using "as" keyword
 
-    let x = 127_000 as i64;
+    let x = 127_000 as i64;  //explicit type conversion
+
+    //runtime implementation
+
+    let x = 127_000 as i64 ;
+    let y = 10_i32;
+    let z = 127_000 / (y as i64);
+    println!("{}",z);
 
 
 
