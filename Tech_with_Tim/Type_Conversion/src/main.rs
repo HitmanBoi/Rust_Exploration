@@ -18,6 +18,11 @@ fn main() {
 
     let x = 127_000_i64 ;
 
+    //method 2
+    //using "as" keyword
+
+    let x = 127_000 as i64;
+
 
 
 }
