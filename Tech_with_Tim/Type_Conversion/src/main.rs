@@ -14,6 +14,10 @@ fn main() {
     //method 1 readability
     let x = 127_i8 ;
 
+    //readability elaborated
+
+    let x = 127_000_i64 ;
+
 
 
 }
