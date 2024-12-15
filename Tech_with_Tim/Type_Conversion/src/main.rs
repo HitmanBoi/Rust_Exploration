@@ -30,6 +30,15 @@ fn main() {
     let z = 127_000 / (y as i64);
     println!("{}",z);
 
+    //Overflow example
+
+    let x = (i32::MAX as i64)+1;
+    let y = 10_i32 ;
+    let z = x as i32/y;
+    println!("{}",z); //it prints -214748364 due to oveerflow (reason 2's complememt)
+
+
+
 
 
 }
