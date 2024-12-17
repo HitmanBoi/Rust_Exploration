@@ -50,7 +50,7 @@ fn main() {
     //parse returns the result (if convertable) from input string
     //unwrap is just like exception handeling (.except("ERR")) , if valid , retursns the result
 
-    println!("{}",int_input + 2);
+    println!("{} + 2 = {}",int_input , int_input + 2);
 
 
 
