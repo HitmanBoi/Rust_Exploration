@@ -44,6 +44,14 @@ fn main() {
     let mut input = String::new() ;
     io::stdin().read_line(&mut input).expect("ERR");
 
+    let int_input : i64 = input.trim().parse().unwrap();
+
+    //the trim removes the escape / newline charachter from input value 
+    //parse returns the result (if convertable) from input string
+    //unwrap is just like exception handeling (.except("ERR")) , if valid , retursns the result
+
+
+
 
 
 
