@@ -1,3 +1,5 @@
+use std::io ;
+
 fn main() {
     //Type Casting
 
@@ -36,6 +38,13 @@ fn main() {
     let y = 10_i32 ;
     let z = x as i32/y;
     println!("{}",z); //it prints -214748364 due to oveerflow (reason 2's complememt)
+
+    //Converting String input to integer 
+    //Taking input
+    let mut input = String::new() ;
+    io::stdin().read_line(&mut input).expect("ERR");
+
+
 
 
 
