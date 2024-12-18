@@ -4,5 +4,10 @@ fn main() {
 
     // < less than
     let cond = 1 < 2 ;
-    println!("1 < 2 is {}",cond)
+    println!("1 < 2 is {}",cond);
+
+    // > greater than
+    let cond = 1 > 2;
+    println!("1 > 2 is {}",cond);
+
 }
