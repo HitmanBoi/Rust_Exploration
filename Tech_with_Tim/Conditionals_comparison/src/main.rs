@@ -10,4 +10,8 @@ fn main() {
     let cond = 1 > 2;
     println!("1 > 2 is {}",cond);
 
+    // <= less than equals to
+    let cond = 2 >= 2;
+    println!("1 >= 2 is {}",cond);
+
 }
