@@ -18,4 +18,9 @@ fn main() {
     let cond = 5 <= 2;
     println!("1 <= 2 is {}",cond);
 
+    // != not equals to 
+    let cond = 5 != 4;
+    println!("1 != 2 is {}",cond);
+
+
 }
