@@ -26,5 +26,7 @@ fn main() {
     let cond = 5 == 5;
     println!("5 == 5 is {}",cond);
 
+    //Note : can only compare same data types
+
 
 }
