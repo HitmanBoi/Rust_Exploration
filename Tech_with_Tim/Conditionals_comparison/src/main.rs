@@ -12,15 +12,19 @@ fn main() {
 
     // <= less than equals to
     let cond = 2 >= 2;
-    println!("1 >= 2 is {}",cond);
+    println!("2 >= 2 is {}",cond);
 
     // >= greater than equals to 
     let cond = 5 <= 2;
-    println!("1 <= 2 is {}",cond);
+    println!("5 <= 2 is {}",cond);
 
     // != not equals to 
     let cond = 5 != 4;
-    println!("1 != 2 is {}",cond);
+    println!("5 != 4 is {}",cond);
+
+    // == is equals to
+    let cond = 5 == 5;
+    println!("5 == 5 is {}",cond);
 
 
 }
