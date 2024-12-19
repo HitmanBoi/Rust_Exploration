@@ -14,4 +14,8 @@ fn main() {
     let cond = 2 >= 2;
     println!("1 >= 2 is {}",cond);
 
+    // >= greater than equals to 
+    let cond = 5 <= 2;
+    println!("1 <= 2 is {}",cond);
+
 }
