@@ -43,6 +43,8 @@ fn main() {
     let  cond2 = !(true &&  cond);
     println!("!(true && {}) = {}",cond , cond2);
 
+    println!("Precedence for compound conditional operators: parenthesis opening > ! > && > ||");
+
 
 
 }
