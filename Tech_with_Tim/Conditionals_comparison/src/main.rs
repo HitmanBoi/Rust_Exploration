@@ -28,5 +28,13 @@ fn main() {
 
     //Note : can only compare same data types
 
+    //Compound Conditional
+    //Multiple conditions combined together using logical operators 
+
+    // && ( and operator )
+
+    let cond2 = true && cond ;
+    println!("true && {} is {}",cond , cond2);
+
 
 }
