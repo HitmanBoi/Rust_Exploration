@@ -32,9 +32,13 @@ fn main() {
     //Multiple conditions combined together using logical operators 
 
     // && ( and operator )
-
     let cond2 = true && cond ;
     println!("true && {} is {}",cond , cond2);
+
+    // || ( or operator )
+    let cond2 = false || cond ;
+    println!("false || {} is {}",cond , cond2);
+
 
 
 }
