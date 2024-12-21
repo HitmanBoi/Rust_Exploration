@@ -39,6 +39,10 @@ fn main() {
     let cond2 = false || cond ;
     println!("false || {} is {}",cond , cond2);
 
+    // ! (not operator)
+    let  cond2 = !(true &&  cond);
+    println!("!(true && {}) = {}",cond , cond2);
+
 
 
 }
