@@ -21,6 +21,19 @@ fn main() {
         println!("Oh! that's not good");
     }
 
+    //nested if
+    let food = "bread";
+    let taste = "sweet";
+    if food == "bread"{
+        println!("{} sounds boring",food);
+        if taste == "sweet"{
+            println!("Whatever , I don't like {}",food);
+        }
+    }
+    else {
+        println!("{} , Oh! that's not good",food);
+    }
+
 
 
 }
