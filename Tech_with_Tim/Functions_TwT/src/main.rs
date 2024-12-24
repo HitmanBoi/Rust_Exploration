@@ -7,4 +7,12 @@ fn main() {
     }
 
     test_one();
+
+    //Functions with parameters
+    fn add_numbers(x:i32 , y:i32){   //We need to explicitly define the type of parameters and multiple parameters are seperated by a comma
+        println!("The sum is : {}",x+y) //It will not return if we put a semicolon(;) here , Expressions vs statements
+    }
+
 }
+
+
