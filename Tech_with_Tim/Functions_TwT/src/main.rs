@@ -5,4 +5,6 @@ fn main() {
     fn test_one(){
         println!("Test is called!");
     }
+
+    test_one();
 }
