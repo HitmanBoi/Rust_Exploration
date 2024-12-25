@@ -8,6 +8,7 @@ fn main() {
 
     test_one();
     add_numbers(20,30);
+    add_numbers(5,7);
 
 
 
