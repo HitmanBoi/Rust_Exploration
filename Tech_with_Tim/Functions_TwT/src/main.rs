@@ -13,6 +13,8 @@ fn main() {
         println!("The sum is : {}",x+y) //It will not return if we put a semicolon(;) here , Expressions vs statements
     }
 
+    add_numbers(20,30);
+
 }
 
 
