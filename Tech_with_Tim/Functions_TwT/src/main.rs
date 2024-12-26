@@ -10,6 +10,11 @@ fn main() {
     add_numbers(20,30);
     add_numbers(5,7);
 
+    //Expressions vs Statements
+    println!("Hello World!"); //Statement
+    add_numbers(50,80); //function call is also a statement
+
+
 
 
 
