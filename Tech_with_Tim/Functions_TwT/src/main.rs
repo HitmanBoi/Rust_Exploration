@@ -14,11 +14,13 @@ fn main() {
     println!("Hello World!"); //Statement
     add_numbers(50,80); //function call is also a statement
 
+
     let number = {  //This is a statement
         let x = 3;  //but
         x+1         //This is expression  
     };
 
+    
 
 
 
@@ -28,6 +30,11 @@ fn main() {
 //Functions with parameters
 fn add_numbers(x:i32 , y:i32){   //We need to explicitly define the type of parameters and multiple parameters are seperated by a comma
     println!("The sum is : {}",x+y) //It will not return if we put a semicolon(;) here , Expressions vs statements
+}
+
+//Returning from function
+fn add_numbers2(x:i32 , y :i32) -> i32 { // -> is return operator followed by the type of return data
+    x+y //Expression (Statement without semicolon)
 }
 
 
