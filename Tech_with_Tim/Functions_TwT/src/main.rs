@@ -21,6 +21,8 @@ fn main() {
     };
 
     
+    let result = add_numbers2(10,20);
+    println!("{}",result);
 
 
 
