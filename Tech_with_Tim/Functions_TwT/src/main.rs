@@ -14,6 +14,11 @@ fn main() {
     println!("Hello World!"); //Statement
     add_numbers(50,80); //function call is also a statement
 
+    let number = {  //This is a statement
+        let x = 3;  //but
+        x+1         //This is expression  
+    };
+
 
 
 
