@@ -47,3 +47,12 @@ fn add_numbers2(x:i32 , y :i32) -> i32 { // -> is return operator followed by th
 fn add_numbers3(x:i32 , y:i32) -> i32{
     return x+y; //semicolon (;) is allowed with return keyword in statements
 }
+
+//Another example (early return with condition/control flow)
+fn add_numbers4(x:i32 , y:i32) -> i32{
+    let result = x+y ;
+    if result > 10{
+        return result-10; //Early return (if executed , function ends here)
+    }
+    result //implicit (default) return
+}
