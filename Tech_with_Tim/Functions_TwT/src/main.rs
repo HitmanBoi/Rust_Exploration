@@ -24,6 +24,10 @@ fn main() {
     let result = add_numbers2(10,20);
     println!("{}",result);
 
+    let result2 = add_numbers3(result,40);
+    println!("{}",result2);
+
+
 
 
 
