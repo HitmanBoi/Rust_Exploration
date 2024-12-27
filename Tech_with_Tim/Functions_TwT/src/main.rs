@@ -39,4 +39,7 @@ fn add_numbers2(x:i32 , y :i32) -> i32 { // -> is return operator followed by th
     x+y //Expression (Statement without semicolon)
 }
 
-
+//Explicit Return Keyword
+fn add_numbers3(x:i32 , y:i32) -> i32{
+    return x+y; //semicolon (;) is allowed with return keyword in statements
+}
