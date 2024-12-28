@@ -61,3 +61,5 @@ fn add_numbers4(x:i32 , y:i32) -> i32{
     }
     result //implicit (default) return
 }
+
+//Note : Function declarations , return statements and let statements are Statements , not expression.
