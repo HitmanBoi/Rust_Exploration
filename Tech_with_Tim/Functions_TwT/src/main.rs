@@ -31,11 +31,12 @@ fn main() {
     let result = add_numbers4(1,2);
     println!("{}",result);
 
-
-
-
+    //early return
+    let result = add_numbers4(10,2);
+    println!("{}",result);
 
 }
+
 
 //Functions with parameters
 fn add_numbers(x:i32 , y:i32){   //We need to explicitly define the type of parameters and multiple parameters are seperated by a comma
