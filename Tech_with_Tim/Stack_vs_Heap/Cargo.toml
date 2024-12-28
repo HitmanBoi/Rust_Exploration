@@ -1,0 +1,6 @@
+[package]
+name = "Stack_vs_Heap"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
