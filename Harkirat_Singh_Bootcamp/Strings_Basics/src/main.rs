@@ -7,7 +7,7 @@ fn main() {
 
     //Dynamic String
     let greeting:String = String :: from("hello world");
-    println!("{}",greeting)
+    println!("{}",greeting);
 
 
     //Advance (Accessing a part of string)
@@ -16,5 +16,7 @@ fn main() {
 
     let char1 : Option<char> = greeting.chars().nth(0); //Option<chars> .. Could be char , could be nothing
     //println!("{}",char1); //Unsafe access to memory
+
+    println!("{}",char1.unwrap());
      
 }
