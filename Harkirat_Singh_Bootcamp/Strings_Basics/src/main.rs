@@ -13,5 +13,8 @@ fn main() {
     //Advance (Accessing a part of string)
 
     //println!("{}",greeting[0]);   It is a wrong method in rust
+
+    let char1 : Option<char> = greeting.chars().nth(0); //Option<chars> .. Could be char , could be nothing
+    //println!("{}",char1); //Unsafe access to memory
      
 }
