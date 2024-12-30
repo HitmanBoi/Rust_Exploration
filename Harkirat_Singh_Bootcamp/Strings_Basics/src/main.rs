@@ -17,6 +17,9 @@ fn main() {
     let char1 : Option<char> = greeting.chars().nth(0); //Option<chars> .. Could be char , could be nothing
     //println!("{}",char1); //Unsafe access to memory
 
-    println!("{}",char1.unwrap());
+    println!("{}",char1.unwrap()); //unwrap .. returns the result only if result is present , Allowing the okay with the runtime exception
+    
+    //Another Method is Pattern Matching (yet to learn)
+    
      
 }
